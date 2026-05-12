@@ -1,171 +1,65 @@
-<h1 align="center">Muhammad Ahmed</h1>
+<!-- ========================================= -->
+<!--           FUTURISTIC GITHUB PROFILE       -->
+<!-- ========================================= -->
 
-<h3 align="center">
-AI Systems Engineer • Automation Developer • Computer Engineering Student
-</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Automation+Developer;Computer+Engineering+Student;Building+Agentic+AI+Systems;Backend+%26+Infrastructure+Engineer;Meta+Developer+API+Specialist;DevOps+%26+Server+Deployment+Enthusiast" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00F7FF&text=Muhammad%20Ahmed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20•%20Automation%20Architect%20•%20Future%20Builder&descAlignY=60"/>
 
----
-
-# ⚡ About Me
-
-👋 **Aslam o Alaikum**, I’m **Muhammad Ahmed** — a passionate **Computer Engineering student** focused on building intelligent systems powered by **AI, automation, backend infrastructure, and scalable deployments**.
-
-I enjoy developing real-world solutions involving:
-
-- 🤖 AI-powered automation systems  
-- 🧠 Agentic AI & LLM workflows  
-- 🌐 Meta Developer APIs  
-- ☁️ Backend architecture & VPS deployments  
-- 📞 Telephony & voice automation systems  
-- 🔐 DevOps and infrastructure engineering  
-
-My goal is to combine **AI + Automation + Infrastructure** to create impactful and scalable technology solutions.
+</div>
 
 ---
 
-# 🚀 Current Focus
+<div align="center">
 
-- Developing intelligent automation workflows using Python & AI
-- Building custom AI voice agents and local AI systems
-- Exploring scalable backend deployments on Debian VPS
-- Integrating Meta APIs (WhatsApp, Instagram, Facebook)
-- Working with telephony systems including Asterisk & AMD solutions
-- Learning advanced DevOps and cybersecurity practices
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=AI+SYSTEMS+ENGINEER;AGENTIC+AI+ARCHITECT;META+DEVELOPER+API+SPECIALIST;BACKEND+%26+INFRASTRUCTURE+ENGINEER;DEVOPS+%7C+CYBERSECURITY+%7C+AUTOMATION;BUILDING+THE+FUTURE+WITH+AI"/>
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+<div align="center">
 
-## 💻 Languages
+<a href="https://github.com/muhammadahmed41">
+<img src="https://img.shields.io/github/followers/muhammadahmed41?style=for-the-badge&logo=github&color=00F7FF&labelColor=0D1117"/>
+</a>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,dart,bash" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=muhammadahmed41&style=for-the-badge&color=00F7FF"/>
 
-## 🌐 Web & Backend
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20FUTURE%20TECH-00F7FF?style=for-the-badge&labelColor=0D1117"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
-</p>
+<img src="https://img.shields.io/badge/FOCUS-AI%20AUTOMATION-00F7FF?style=for-the-badge&labelColor=0D1117"/>
 
-## ☁️ DevOps & Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode" />
-</p>
-
-## 🤖 AI & Automation
-
-- LLM Workflows  
-- Agentic AI Systems  
-- AI Automation Tools  
-- Prompt Engineering  
-- Voice AI Integrations  
-- Python Automation Scripts  
+</div>
 
 ---
 
-# 🧠 What I'm Building
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> SYSTEM INTRODUCTION
 
-## 🤖 AI & Automation Systems
-- Intelligent AI workflow automation
-- Local AI voice agents
-- Prompt-based task execution systems
-- Custom AI tooling and integrations
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JtMzY4a2lyYzV1cXh6eW94dnNxbTZrOWJqM2RmdjI4b3Y2NWF1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif"/>
 
-## 📞 Telephony & Voice Infrastructure
-- AMD2 (Answering Machine Detection)
-- Asterisk-based telephony systems
-- SIP & VoIP integrations
-- AI-powered voice automation
+```yaml
+name: Muhammad Ahmed
+role: AI Systems Engineer
+education: Computer Engineering
+specialization:
+  - AI Automation
+  - Agentic AI Systems
+  - DevOps & Infrastructure
+  - Voice AI Systems
+  - Meta APIs
+  - Backend Engineering
+  - Telephony Automation
 
-## 🌐 Meta Developer Ecosystem
-- WhatsApp Cloud API integrations
-- Instagram Graph API tools
-- Webhook automation systems
-- Business automation platforms
+currently_building:
+  - AI Voice Agents
+  - Automation Workflows
+  - AMD2 Detection Systems
+  - LLM Integrations
+  - Debian VPS Infrastructure
+  - Intelligent Backend Systems
 
-## ☁️ Server & Deployment Engineering
-- Debian VPS deployments
-- Backend server management
-- Scalable hosting environments
-- Infrastructure optimization
-
----
-
-# 📌 Featured Interests
-
-- Artificial Intelligence  
-- Agentic AI Systems  
-- Backend Engineering  
-- Infrastructure Automation  
-- Cybersecurity  
-- DevOps Engineering  
-- Voice AI & Telephony  
-- Cloud Infrastructure  
-- Open Source Collaboration  
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadahmed41&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmed41&theme=tokyonight&hide_border=true" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmed41&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🤝 Open To Collaborate
-
-I’m always interested in collaborating on:
-
-- AI & LLM-based applications  
-- Automation systems  
-- Meta API integrations  
-- Backend & infrastructure projects  
-- DevOps & deployment workflows  
-- Open-source engineering projects  
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:ahmaadsarfraz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/muhammadahmed41">
-    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 🌱 Philosophy
-
-> “Build systems that solve real-world problems while continuously learning, improving, and innovating.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadahmed41&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+mission: >
+  Building futuristic intelligent systems
+  combining AI, automation, cloud infrastructure,
+  cybersecurity, and scalable backend engineering.
