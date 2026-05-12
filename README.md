@@ -88,16 +88,6 @@ Scalable Backends
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=AI+Automation+Systems;Backend+Engineering+Projects;Meta+API+Integrations;Voice+AI+Systems;VPS+Deployment+Architectures;Real+World+Engineering+Solutions" />
 </p>
 
----
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="120"/>
-
-</div>
-
----
-
 ## 🤖 AI SYSTEMS
 ```text
 • AI Automation Workflows
