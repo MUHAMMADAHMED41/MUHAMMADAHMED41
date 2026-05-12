@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:200000,50:8B0000,100:FF0000&text=Muhammad%20Ahmed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20•%20AI%20Automation%20Builder&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:200000,50:8B0000,100:FF0000&text=Muhammad%20Ahmed&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20•%20AI%20Automation%20Builder&descAlignY=60"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=2500&pause=900&color=FF0000&center=true&vCenter=true&width=1000&lines=COMPUTER+ENGINEERING+STUDENT;AI+AUTOMATION+DEVELOPER;SOFTWARE+%26+SYSTEMS+BUILDER;BACKEND+%26+INFRASTRUCTURE+FOCUSED;BUILDING+REAL+WORLD+ENGINEERING+SYSTEMS"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&duration=2500&pause=900&color=FF0000&center=true&vCenter=true&width=1000&lines=COMPUTER+ENGINEER;AI+AUTOMATION+DEVELOPER;SOFTWARE+%26+SYSTEMS+BUILDER;BACKEND+%26+INFRASTRUCTURE+FOCUSED;BUILDING+REAL+WORLD+ENGINEERING+SYSTEMS"/>
 
 </div>
 
