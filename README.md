@@ -98,8 +98,9 @@ Scalable Backends
 📡 Integration Systems
    → Meta APIs (WhatsApp / IG)
    → Webhook automation pipelines
+   
 📊 ENGINEERING ANALYTICS
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadahmed41&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmed41&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmed41&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true"/> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadahmed41&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&hide_border=true"/> </div>
 🐍 CONTRIBUTION NETWORK
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div>
