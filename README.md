@@ -82,22 +82,27 @@ Server Logic
 Scalable Backends
 
 </td> </tr> </table> </div>
-⚡ ACTIVE ENGINEERING PROJECTS
-🤖 AI Automation Systems
-   → Workflow automation tools
-   → Intelligent task execution
+# ⚡ ACTIVE ENGINEERING PROJECTS
 
-💻 Backend Engineering
-   → API development systems
-   → Database-driven architectures
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=AI+Automation+Systems;Backend+Engineering+Projects;Meta+API+Integrations;Voice+AI+Systems;VPS+Deployment+Architectures;Real+World+Engineering+Solutions" />
+</p>
 
-⚙️ System-Level Projects
-   → Computer engineering implementations
-   → Real-world software systems
+---
 
-📡 Integration Systems
-   → Meta APIs (WhatsApp / IG)
-   → Webhook automation pipelines
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="120"/>
+
+</div>
+
+---
+
+## 🤖 AI SYSTEMS
+```text
+• AI Automation Workflows
+• Intelligent Task Agents
+• LLM-Based Systems
    
 📊 ENGINEERING ANALYTICS
 <div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmed41&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&hide_border=true"/> </div>
