@@ -65,7 +65,8 @@ mission: >
   cybersecurity, and scalable backend engineering.
 
 
-  ⚡ NEURAL TECH STACK
+```
+⚡ NEURAL TECH STACK
 <div align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,dart,react,nodejs,express,mongodb,firebase,linux,docker,git,github,bash,vscode&perline=8"/> </div>
 🧠 AI • AUTOMATION • INFRASTRUCTURE MATRIX
 <div align="center"> <table> <tr> <td align="center" width="300">
